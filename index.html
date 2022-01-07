@@ -1,0 +1,77 @@
+<!doctype html>
+
+
+<!--
+
+<h2>Click and slide to play</h2>
+<ul>
+	<li>Pointer relative X position controls pitch</li>
+	<li>Pointer relative Y position controls cutoff frequency of biquad filter</li>
+</ul>
+<p>WebAudioXML is a javascript library that makes it possible to create
+	Web Audio applications using XML syntax. It is a PhD research project by
+	Hans Lindetorp. Please follow me on
+	<a href="https://hans.arapoviclindetorp.se">https://hans.arapoviclindetorp.se</a> and
+	<a href="https://www.facebook.com/hanslindetorpresearch/">https://www.facebook.com/hanslindetorpresearch/</a>
+</p>
+
+-->
+
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, user-scalable=no" />
+		<title>Car noises are decreasing in Sweden?</title>
+		<script src="script/NormalDistribution.js"></script>
+		<script src="script/max.size.js"></script>
+		<script src="script/JSONCrush.min.js"></script>
+
+		<link rel="stylesheet" href="styles/style.css" />
+		<link rel="stylesheet" href="styles/multirange.css" />
+	</head>
+
+
+	<body>
+		<div id="container">
+			<h1>Car noises are decreasing in Sweden?</h1>
+			<button id="newBtn">NEW</button>
+			<button id="openBtn">OPEN</button>
+			<button id="saveBtn">SAVE</button>
+			<button id="shareBtn">SHARE</button>
+			<!--button id="statisticsBtn">STATISTICS</button-->
+			<button id="displayModeBtn">Display Mode</button>
+
+			
+
+			<div id="visual-output"><canvas width="1000" height="200"></canvas></div>
+			<input type="range" min="0" max="1" value="0" step="0.001" class="slider" id="scrub" />
+			<!-- <button onclick="javascript: webAudioXML.init()">INIT AUDIO</button> -->
+			<button id="reverseBtn">REVERSE</button>
+			<button id="stopBtn">STOP</button>
+			<button id="playBtn">PLAY</button>
+			<input id="duration" value="60" /> s.
+			<span id="input-label">Data Range:</span>
+			<span id="output-label">Parameter Range:</span>
+			<div id="variables"></div>
+			<div id="instruction">
+				<h2>Car noises are decreasing in Sweden?</h2>
+				<p>From using <a href="https://github.com/hanslindetorp/SonificationToolkit">Sonification Toolkit</a> by Hans Lindetorp"></p>
+			</div>
+
+			<div id="data-input-container" class="data-container">
+				<button class="loadBtn">OK</button>
+				<button class="closeBtn">Cancel</button>
+				<textarea></textarea>
+			</div>
+			<div id="data-output-container" class="data-container">
+				<button class="closeBtn">X</button>
+				<textarea id="outputText"></textarea>
+			</div>
+		</div>
+
+		<script src="script/multirange.js"></script>
+
+		<script src="script/WebAudioXML.js" data-source="audio.xml"></script>
+		<script src="script/main.js" data-source="configuration.js"></script>
+	</body>
+</html>

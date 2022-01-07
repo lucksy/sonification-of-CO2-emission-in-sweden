@@ -1,0 +1,54 @@
+{
+    "version": 1,
+    "duration": 10,
+    "variableMappings": [
+        {
+            "name": "Sweden",
+            "id": 0,
+            "rowID": "2",
+            "gain": 0.8649000000000001,
+            "pan": 2.8,
+            "state": true,
+            "color": "#D4E09B",
+            "audioObjectID": 2,
+            "mappings": [
+                {
+                    "parameterID": 6,
+                    "inputLow": 4.4,
+                    "inputHigh": 6.9,
+                    "outputLow": -6.3,
+                    "outputHigh": 0,
+                    "relInputLow": 0,
+                    "relInputHigh": 0.9154411764705884,
+                    "invert": false,
+                    "state": true,
+                    "id": 0
+                }
+            ]
+        },
+        {
+            "name": "Sweden-renewable energy",
+            "id": 1,
+            "rowID": "3",
+            "gain": 0.5929,
+            "pan": -3.3,
+            "state": true,
+            "color": "#F6F4D2",
+            "audioObjectID": 15,
+            "mappings": [
+                {
+                    "parameterID": 19,
+                    "inputLow": 5132,
+                    "inputHigh": 27100,
+                    "outputLow": -8.7,
+                    "outputHigh": 0,
+                    "relInputLow": 0.1799925345278089,
+                    "relInputHigh": 1,
+                    "invert": false,
+                    "state": true,
+                    "id": 1
+                }
+            ]
+        }
+    ]
+}

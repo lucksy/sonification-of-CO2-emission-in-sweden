@@ -1,0 +1,506 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tab",
+				"table-column"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"bode",
+				"border"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"al",
+				"alt"
+			],
+			[
+				"bo",
+				"border-right"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"l",
+				"label"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"h",
+				"width"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"i",
+				"inherit"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"button_",
+				"button_1"
+			],
+			[
+				"cle",
+				"clearfix"
+			],
+			[
+				"cl",
+				"clearfix"
+			],
+			[
+				"clea",
+				"clear"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"as",
+				"assets"
+			],
+			[
+				"Co",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "configuration.json",
+			"settings":
+			{
+				"buffer_size": 2293,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/soni/root"
+	],
+	"file_history":
+	[
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/starter-kit/components/_hiveage/_button.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/custom-template-print.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/aurora-custom-template-print.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/aurora-custom-template.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/receipts/templates/_aurora_body.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/services/pdf_service.rb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/layouts/statement_template.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/config/initializers/wicked_pdf.rb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/starter-kit/components/_hiveage/old_stylesheets/patterns.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/statements/invoices/_inside.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/layouts/pdf_template.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/layouts/pdf.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/pdf_layout.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/pdf/media.css",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/custom-template.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/custom-template-print-bw.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/starter-kit/components/_hiveage/old_stylesheets/common.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/custom_theme_1.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/brandings/show.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/payment/mysqpaymentform.css",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/templates/aurora.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/layouts/template.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/templates/elegant.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/layouts/statement.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/statements/invoices/_template_outside.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/shared/_custom_statement_head.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/starter-kit/components/_hiveage/_paper.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/starter-kit/no_user_main.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/javascripts/action_paper.js",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/statements/bulk_payments.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/templates/custom-template/custom_theme_1.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/javascripts/action_side_bar.js",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/javascripts/application.js",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/templates/custom-template/custom-template.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/starter-kit/components/_hiveage/_icons.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/statements/bills/index.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/templates/amsterdam/assets/css/app.css",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/templates/amsterdam/assets/scss/app.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/templates/amsterdam/index.html",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/templates/amsterdam/dist/assets/css/app.min.css",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/doc/TEMPLATE/templates_info.txt",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/config.codekit3",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/config.codekit",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/starter-kit/components/_hiveage/old_stylesheets/form.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/javascripts/action_upload.js",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/starter-kit/components/_hiveage/_statement.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/javascripts/onboarding.js",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/fonts/hiveage_27_latest/demo.html",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/layouts/application.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/config/navigations/admin_navigation.rb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/controllers/statements/invoices_controller.rb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/starter-kit/components/_hiveage/_main.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/starter-kit/components/_hiveage/_tabs.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/shared/edit_views/_details_block.html.erb",
+		"/Users/lucksy/Desktop/I'm Amila Sampath, an international student readin",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/test/controllers/estimates_controller_test.rb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/pdf/common.css",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/statements/_next_prev_btn.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/patterns/widgets/widgets_1.html",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/statements/invoices/_sticky_bar_for_edit.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/statements/invoices/_sticky_bar_for_new.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/statements/invoices/index.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/home/verify_side.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/template/bootstrap/scss/utilities/_flex.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/config/database.yml",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/settings/onboarding.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/statements/invoices/_list.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/starter-kit/components/components.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/starter-kit/components/_hiveage/_flash_wrap.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/starter-kit/main.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/starter-kit/components/_hiveage/_top_message.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/template/bootstrap/scss/_alert.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/decorators/modules/statement_header.rb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/decorators/subscription_receipt_decorator.rb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/capture_payments/_payment_list.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/application.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/home/dashboard.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/user_mailer/monthly_summary_email.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/bootstrap/stylesheets/bootstrap/_mixins.scss",
+		"/Users/lucksy/New Unity Project (2)/Assets/SimpleDrawingTool/readme-en.txt",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/shared/_statement_head.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/layouts/_analytics.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/controllers/businesses_controller.rb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/cancels/show.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/layouts/no_user.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/controllers/cancels_controller.rb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/config/navigations/mobile_main_navigation.rb",
+		"/Users/lucksy/Desktop/intercom.js",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/decorators/payment_receipt_decorator.rb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/helpers/addons_helper.rb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/home/dashboard_free.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/businesses/_form_side.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/notes_and_emails/index.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/capture_payments/show.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/businesses/_form.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/starter-kit/components/_hiveage/_app-bar.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/subscription_receipts/_head.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/template/bootstrap/scss/_type.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/payment/credit-card.css",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/statement_layout.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/vendor/engines/administrator/app/views/layouts/hiveage_admin/admin.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/no_user_layout.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/font-face.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/javascripts/model/dashboard.js",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/images/copy.svg",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/_bootstrap-custom.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/layouts/website.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/pdf/normalize.min.css",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/pdf/patterns.css",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/pdf/form.css",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/pdf/statement.css",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/pdf/fonts.css",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/pdf/font-face.css",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/pdf/application.css",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/layouts/on_promo.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/layouts/box_user.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/layouts/box.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/layouts/_mobile_navigation.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/layouts/_main_navigation.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/views/layouts/_analytics_statement.html.erb",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/selectize.css",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/reports.css.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/jquery-confirm.css",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/index.html",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/font-face-hiveage.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/_alt-bootstrap.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/_bootstrap-variables.scss",
+		"/Users/lucksy/projects/vesess/hiveage/app/hiveage/app/assets/stylesheets/application-print.css"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "configuration.json",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sonic.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 366.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
